@@ -1,8 +1,8 @@
 
 //  main.cpp
-//  EC2_base_converter
-
+//  EC3_number_base_converter
 //  Created by Mordechai Bronfin on 11/20/18.
+//  Wayne State University CSC 3100
 //  Copyright © 2018 Mordechai Bronfin. All rights reserved.
 
 
